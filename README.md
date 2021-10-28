@@ -28,14 +28,20 @@ git config --global user.email 이메일@example.com
 ```
 echo "# 프로젝트명" >> README.md
 ```
+echo: 문자열을 터미널에 출력하는 명령어
+
+/ >>: 리다이렉션이라는 linux 명령어; 다음에 오는 파일에 이전 내용을 추가한다.
+- 곧, README 파일이 없으면 README.md을 생성하며 " " 내부 내용이 해당 파일 내부에 추가된다.
 
 ```
 git init
 ```
+Git repository가 git base 창 주소에 추가되고 작업 디렉토리를 초기화 함
 
 ```
 git add README.md
 ```
+해당 파일을 스테이지 영역에 남긴다. (git status 로 확인 가능)
 
 ```
 git commit -m "코멘트"
