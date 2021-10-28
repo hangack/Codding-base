@@ -60,6 +60,8 @@ https://dlee0129.tistory.com/22
 <hr>
 
 ### pycharm 터미널 git bash 연동
+
+Setting - Tools - Terminal - Shell pass:
 "~Git\bin\bash.exe" --login
 
 https://opentutorials.org/course/3718/24657
