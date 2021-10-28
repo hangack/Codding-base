@@ -46,18 +46,26 @@ git add README.md
 ```
 git commit -m "코멘트"
 ```
+commit: 변경된걸 기록한다.
+- 메세지를 입력해(-m " ") 변경 사항을 명시해준다.
 
 ```
 git branch -M main
 ```
+권한(branch)을 기존(master)에서 main으로 변경해서 사용
 
 ```
 git remote add origin https://github.com/유저네임/프로젝트명.git
 ```
+remote: 원격 저장소 관리
+- remote를 통해 원격 저장소 주소를 origin이라는 이름으로 등록한다.
+- 원격 저장소와 연동이 되어야 push를 사용할 수 있다.
 
 ```
 git push -u origin main
 ```
+원격저장소에 변경된 commit을 등록한다.
+
 https://dlee0129.tistory.com/22
 
 처음은 위 세팅방법을 따르고 이후론 Repository 생성 시 Public & Add a README file을 생성하면 된다.(git clone 명령어 사용해서 프로젝트를 다운받을 수 있다.)
