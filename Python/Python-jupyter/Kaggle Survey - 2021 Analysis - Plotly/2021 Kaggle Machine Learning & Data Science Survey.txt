@@ -1,0 +1,320 @@
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - MongoDB 
+In what industry is your current employer/contract (or your most recent employer if retired)? - Selected Choice
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Oracle Database 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Kaggle Notebooks
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Other
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Firestore 
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Encoder-decorder models (seq2seq, vanilla transformers)
+What is the highest level of formal education that you have attained or plan to attain within the next 2 years?
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  AWS Inferentia Chips 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon Aurora 
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Sublime Text  
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Thoughtspot 
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Dataiku
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Sisense 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Binder / JupyterHub 
+Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Object detection methods (YOLOv3, RetinaNet, etc)
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  TensorBoard 
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Analyze and understand data to influence product or business decisions
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  H2O 3 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Convolutional Neural Networks
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - SQL
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Domo
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Colab Notebooks
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice - Other
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+What is your age (# years)?
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon Redshift 
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Visual Studio 
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - C++
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice - No / None
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated model selection (e.g. auto-sklearn, xcessiv)
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Kaggle 
+What is your gender? - Selected Choice
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Qlik
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Course Forums (forums.fast.ai, Coursera forums, etc)
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - edX
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  TensorBoard 
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Tencent Cloud 
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  H2O Driverless AI  
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Alteryx 
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  NBViewer 
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Evolutionary Approaches
+Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Image segmentation methods (U-Net, Mask R-CNN, etc)
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Data Studio
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Visual Studio Code (VSCode) 
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  DataRobot
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  NVIDIA GPUs 
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automation of full ML pipelines (e.g. Google AutoML, H2O Driverless AI)
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice - None
+In which country do you currently reside?
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Linear or Logistic Regression
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  Google Cloud AutoML 
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automation of full ML pipelines (e.g. Google Cloud AutoML, H2O Driverless AI)
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Azure Machine Learning Studio 
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - None of these activities are an important part of my role at work
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Platform (GCP) 
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Experimentation and iteration to improve existing ML models
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Amazon Web Services (AWS) 
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Javascript
+Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice - Other
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon DynamoDB 
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  SAP Cloud 
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Other
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Keras 
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Java
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure SQL Database 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Shiny 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Other
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Slack Communities (ods.ai, kagglenoobs, etc)
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - SAP Analytics Cloud 
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - None
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Guild.ai 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Qlik
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon RDS 
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice - None
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Spanner 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Looker
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - None
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Paperspace / Gradient 
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Salesforce Cloud 
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Microsoft Azure 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Amazon EMR Notebooks 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Sisense 
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Email newsletters (Data Elixir, O'Reilly Data & AI, etc)
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Comet.ml 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Weights & Biases 
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - No / None
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated feature engineering/selection (e.g. tpot, boruta_py)
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Other
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon QuickSight
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Colab 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Amazon DynamoDB 
+Duration (in seconds)
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  GitHub 
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - None
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice - Other
+What is your current yearly compensation (approximate $USD)?
+Which of the following big data products (relational database, data warehouse, data lake, or similar) do you use most often? - Selected Choice
+Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Compute Engine 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Alteryx 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Looker
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  AWS Trainium Chips 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud BigTable 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Polyaxon 
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Julia
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Amazon Elastic File System (EFS)  
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Guild.ai 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  CatBoost 
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Kaggle Learn Courses
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Decision Trees or Random Forests
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -   Amazon Sagemaker Autopilot 
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Other
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Data Lake Storage 
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Alibaba Cloud 
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice -  Google Cloud TPUs 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Bokeh 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  IBM Watson Studio 
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build and/or run the data infrastructure that my business uses for storing, analyzing, and operationalizing data
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Transformer Networks (BERT, gpt-3, etc)
+What is the size of the company where you are employed?
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Other
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -   Azure Automated Machine Learning 
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated data augmentation (e.g. imgaug, albumentations)
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Other
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Databricks Collaborative Notebooks 
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice -  DataRobot AutoML 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - SAP Analytics Cloud 
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build prototypes to explore applying machine learning to new areas
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Cosmos DB 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Domo
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - University Courses (resulting in a university degree)
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Amazon Web Services (AWS) 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft SQL Server 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  D3 js 
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Amazon SageMaker 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - TIBCO Spotfire
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Snowflake 
+Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Kaggle (notebooks, forums, etc)
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  ClearML 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud Firestore 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Sacred + Omniboard 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Power BI
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  IBM Cloud / Red Hat 
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice - No / None
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - TIBCO Spotfire
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Synapse 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Xgboost 
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Google Cloud Platform (GCP) 
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Spyder  
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - None
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - R
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - PostgreSQL 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud SQL 
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice - Other
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  DataRobot AutoML 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon Aurora 
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Google Cloud Storage (GCS)   
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  PyTorch 
+In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Google Cloud Compute Engine 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Salesforce
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Google Data Studio
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - SQLite 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud BigTable 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Plotly / Plotly Express 
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice - No / None
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Blogs (Towards Data Science, Analytics Vidhya, etc)
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Build and/or run a machine learning service that operationally improves my product or workflows
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Swift
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Databricks
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  H2O Driverless AI  
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - MySQL 
+Approximately how many individuals are responsible for data science workloads at your place of business?
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - MySQL 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice - None
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  SAP Cloud 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Thoughtspot 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice - None
+In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Amazon Elastic Compute Cloud (EC2) 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Code Ocean 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud Spanner 
+In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice -  Microsoft Azure Virtual Machines 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  LightGBM 
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Neptune.ai 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Caret 
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Plotly Dash 
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Word embeddings/vectors (GLoVe, fastText, word2vec)
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  VMware Cloud 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  ClearML 
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Filestore 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Tableau
+For how many years have you been writing code and/or programming?
+In the next 2 years, do you hope to become more familiar with any of these specific cloud computing products? (Select all that apply) - Selected Choice - Other
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Azure Synapse 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Tidymodels 
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  RStudio 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Deepnote Notebooks 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Seaborn 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - SQLite 
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated model architecture searches (e.g. darts, enas)
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Streamlit 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Microsoft Power BI
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Microsoft Azure Disk Storage 
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice - Jupyter (JupyterLab, Jupyter Notebooks, etc) 
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Google Cloud Vertex AI
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Automated feature engineering/selection (e.g. tpot, boruta_py)
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Reddit (r/machinelearning, etc)
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Notepad++  
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  PyCharm 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud SQL 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Google Cloud BigQuery 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Which categories of automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Other
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - No / None
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Salesforce
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Leaflet / Folium 
+What type of computing platform do you use most often for your data science projects? - Selected Choice
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Weights & Biases 
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -  Databricks AutoML 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  Domino Model Monitor 
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - Python
+Do you use any of the following cloud computing products on a regular basis? (Select all that apply) - Selected Choice -  Microsoft Azure Virtual Machines 
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Amazon Simple Storage Service (S3)  
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Rapidminer
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Snowflake 
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Rapidminer
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - LinkedIn Learning
+Which of the following business intelligence tools do you use most often? - Selected Choice
+What programming language would you recommend an aspiring data scientist to learn first? - Selected Choice
+Does your current employer incorporate machine learning methods into their business?
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Amazon Redshift 
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Fast.ai
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice - None
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Tencent Cloud 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Personal blog 
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Microsoft Azure 
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - DataCamp
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice - Google Cloud Storage (GCS)   
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  IBM Cloud / Red Hat 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Ggplot / ggplot2 
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Cloud-certification programs (direct from AWS, Azure, GCP, or similar)
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Twitter (data science influencers)
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - IBM Db2 
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Databricks
+What programming languages do you use on a regular basis? (Select all that apply) - Selected Choice - MATLAB
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Alibaba Cloud 
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Gradient Boosting Machines (xgboost, lightgbm, etc)
+Which types of specialized hardware do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Vim / Emacs  
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - Tableau CRM
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Huggingface 
+Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Microsoft Azure Data Lake Storage 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Google Cloud Notebooks (AI Platform / Vertex AI) 
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Polyaxon 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Google Cloud BigQuery 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice -  Amazon Sagemaker Studio Notebooks 
+In the next 2 years, do you hope to become more familiar with any of these tools for managing ML experiments? (Select all that apply) - Selected Choice -  MLflow 
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - None
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Amazon Elastic File System (EFS)  
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  DataRobot
+Select the title most similar to your current role (or most recent title if retired): - Selected Choice
+Which of the following business intelligence tools do you use on a regular basis? (Select all that apply) - Selected Choice - Tableau
+Approximately how many times have you used a TPU (tensor processing unit)?
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Udacity
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice -  Oracle Cloud 
+Which of the following ML algorithms do you use on a regular basis? (Select all that apply): - Selected Choice - Bayesian Approaches
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Other
+Do you use any of the following data storage products on a regular basis? (Select all that apply) - Selected Choice -  Amazon Simple Storage Service (S3)  
+Which of the following integrated development environments (IDE's) do you use on a regular basis?  (Select all that apply) - Selected Choice -  MATLAB 
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Amazon Sagemaker Autopilot 
+Which categories of computer vision methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Generative Networks (GAN, VAE, etc)
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  MLflow 
+Which of the following automated machine learning tools (or partial AutoML tools) do you use on a regular basis?  (Select all that apply) - Selected Choice -   Azure Automated Machine Learning 
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Transformer language models (GPT-3, BERT, XLnet, etc)
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Google Cloud Datalab
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Podcasts (Chai Time Data Science, O¡¯Reilly Data Show, etc)
+Which specific automated machine learning tools (or partial AutoML tools) do you hope to become more familiar with in the next 2 years?  (Select all that apply) - Selected Choice - Other
+Of the cloud platforms that you are familiar with, which has the best developer experience (most enjoyable to use)? - Selected Choice
+Where do you publicly share your data analysis or machine learning applications? (Select all that apply) - Selected Choice -  Shiny 
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice -  Google Cloud Filestore 
+Which of the following hosted notebook products do you use on a regular basis?  (Select all that apply) - Selected Choice - Azure Notebooks
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - None
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - YouTube (Kaggle YouTube, Cloud AI Adventures, etc)
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -   TensorFlow 
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Oracle Cloud 
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Microsoft SQL Server 
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Alteryx
+Do you use any tools to help manage machine learning experiments? (Select all that apply) - Selected Choice -  Domino Model Monitor 
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Prophet 
+Which of the following natural language processing (NLP) methods do you use on a regular basis?  (Select all that apply) - Selected Choice - Contextualized embeddings (ELMo, CoVe)
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Udemy
+Which of the following cloud computing platforms do you hope to become more familiar with in the next 2 years? - Selected Choice - Other
+Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - None
+Select any activities that make up an important part of your role at work: (Select all that apply) - Selected Choice - Do research that advances the state of the art of machine learning
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice -  Altair 
+Do you use any of the following managed machine learning products on a regular basis? (Select all that apply) - Selected Choice -  Google Cloud Vertex AI
+Which of the following machine learning frameworks do you use on a regular basis? (Select all that apply) - Selected Choice -  Fast.ai 
+Which of the following business intelligence tools do you hope to become more familiar with in the next 2 years? (Select all that apply) - Selected Choice - None
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Coursera
+Which of the following big data products (relational databases, data warehouses, data lakes, or similar) do you use on a regular basis? (Select all that apply) - Selected Choice - Other
+In the next 2 years, do you hope to become more familiar with any of these managed machine learning products? (Select all that apply) - Selected Choice -  Amazon SageMaker 
+Which of the following cloud computing platforms do you use on a regular basis? (Select all that apply) - Selected Choice -  Salesforce Cloud 
+What data visualization libraries or tools do you use on a regular basis?  (Select all that apply) - Selected Choice - Other
+Approximately how much money have you (or your team) spent on machine learning and/or cloud computing services at home (or at work) in the past 5 years (approximate $USD)?
+In the next 2 years, do you hope to become more familiar with any of these specific data storage products? (Select all that apply) - Selected Choice - Microsoft Azure Disk Storage 
+Do you use any automated machine learning tools (or partial AutoML tools) on a regular basis?  (Select all that apply) - Selected Choice - Automated model architecture searches (e.g. darts, enas)
