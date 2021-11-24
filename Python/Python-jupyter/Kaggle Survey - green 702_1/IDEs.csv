@@ -1,0 +1,25 @@
+,year,Country,IDE's,counts
+0,2021,Japan,Jupyter,200
+1,2021,Japan, Visual Studio ,136
+2,2021,Japan, Visual Studio Code (VSCode) ,414
+3,2021,Japan, PyCharm ,107
+4,2021,Japan,  Vim / Emacs  ,99
+5,2021,Japan, MATLAB ,34
+6,2021,Japan, Jupyter Notebook,514
+7,2021,China,Jupyter,141
+8,2021,China, Visual Studio ,154
+9,2021,China, Visual Studio Code (VSCode) ,329
+10,2021,China, PyCharm ,494
+11,2021,China,  Vim / Emacs  ,45
+12,2021,China, MATLAB ,158
+13,2021,China, Jupyter Notebook,405
+14,2019,China,Jupyter,372
+15,2019,China, PyCharm ,98
+16,2019,China, MATLAB ,35
+17,2019,China, VS / VSCode ,200
+18,2019,China,  Vim / Emacs  ,111
+19,2019,Japan,Jupyter,293
+20,2019,Japan, PyCharm ,240
+21,2019,Japan, MATLAB ,87
+22,2019,Japan, VS / VSCode ,137
+23,2019,Japan,  Vim / Emacs  ,73

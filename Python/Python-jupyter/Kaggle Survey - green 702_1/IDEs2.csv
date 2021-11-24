@@ -1,0 +1,47 @@
+,year,Country,IDE's,counts
+0,2021,Japan,Jupyter,200
+1,2021,Japan, RStudio ,92
+2,2021,Japan, Visual Studio ,136
+3,2021,Japan, Visual Studio Code (VSCode) ,414
+4,2021,Japan, PyCharm ,107
+5,2021,Japan,  Spyder  ,70
+6,2021,Japan,  Notepad++  ,29
+7,2021,Japan,  Sublime Text  ,36
+8,2021,Japan,  Vim / Emacs  ,99
+9,2021,Japan, MATLAB ,34
+10,2021,Japan, Jupyter Notebook,514
+11,2021,Japan,None,23
+12,2021,China,Jupyter,141
+13,2021,China, RStudio ,71
+14,2021,China, Visual Studio ,154
+15,2021,China, Visual Studio Code (VSCode) ,329
+16,2021,China, PyCharm ,494
+17,2021,China,  Spyder  ,74
+18,2021,China,  Notepad++  ,90
+19,2021,China,  Sublime Text  ,75
+20,2021,China,  Vim / Emacs  ,45
+21,2021,China, MATLAB ,158
+22,2021,China, Jupyter Notebook,405
+23,2021,China,None,8
+24,2019,China,Jupyter,372
+25,2019,China, RStudio ,96
+26,2019,China, PyCharm ,98
+27,2019,China, Atom ,79
+28,2019,China, MATLAB ,35
+29,2019,China, VS / VSCode ,200
+30,2019,China,  Spyder  ,45
+31,2019,China,  Vim / Emacs  ,111
+32,2019,China,  Notepad++  ,20
+33,2019,China,  Sublime Text  ,48
+34,2019,China,None,9
+35,2019,Japan,Jupyter,293
+36,2019,Japan, RStudio ,54
+37,2019,Japan, PyCharm ,240
+38,2019,Japan, Atom ,15
+39,2019,Japan, MATLAB ,87
+40,2019,Japan, VS / VSCode ,137
+41,2019,Japan,  Spyder  ,78
+42,2019,Japan,  Vim / Emacs  ,73
+43,2019,Japan,  Notepad++  ,86
+44,2019,Japan,  Sublime Text  ,86
+45,2019,Japan,None,1
