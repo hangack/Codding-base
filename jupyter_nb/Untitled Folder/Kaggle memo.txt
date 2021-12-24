@@ -1,0 +1,46 @@
+2021 Kaggle Machine Learning & Data Science Survey 점수 기록
+
+1. defualt https://www.kaggle.com/odins0n/tps-dec-eda-modeling lightGBM
+		0.94071
+
+2. FEATURES['mean', 'std', 'min', 'max'] 사용X
+	cuz: 단순히 모든 컬럼에서 평균,중간,최소,최대값을 가져오는 columns 이기 때문에 ML 상에서 중요하지 않다고 판단
+		0.94345
+
+3. total DF에서 적은 점유율(1% 이하)을 보이는 Soild_Type 제거
+train = train.drop(labels = ["Soil_Type7" , "Soil_Type15", "Soil_Type8", "Soil_Type25", "Soil_Type3"] ,axis = 1)
+FEATURES.remove('Soil_Type3')
+FEATURES.remove('Soil_Type7')
+FEATURES.remove('Soil_Type8')
+FEATURES.remove('Soil_Type15')
+FEATURES.remove('Soil_Type25')
+	cuz: 임의로 뽑아낸 값이기 때문에 train과 test를 모두 고려하는게 맞다고 판단
+		0.94545
+
+4. Cover_Type == 4 를 제거
+train = train.drop(train[train["Cover_Type"] == 4].index)
+	cuz: train count (cover=4) = 377, train count = 4000000
+		0.95069
+
+4-2. catboost
+		0.95362
+
+4-3. xgboost
+		0.95246
+
+4-4. tanserflow
+		0.95519
+
+5. 1% 미만인 Cover_Type == 6 도 제거 해봤다
+train = train.drop(train[train["Cover_Type"] == 6].index)
+	cuz: train count (cover=6) = 11426, train count = 4000000
+		0.95056
+==> 95%의 정확도를 넘어 0.a% 정확도 상승이 중요한 상황이라 판단 => return to 4
+
+6. 1.5% 미만인 Soil_Type을 제거하는 for문 작성
+
+		0.94668 ==> return to 4
+
+7. Soil_Type 제거 점유율 기준을 0.5% 이하로 낮췄다.
+
+		0.95035 ==> return to 4
