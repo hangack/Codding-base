@@ -1,0 +1,16 @@
+lightGBM
+http://machinelearningkorea.com/2019/09/25/lightgbm%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9D%B4%ED%95%B4/
+
+tanserflow 용어정리
+	swish
+	BATCH_SIZE
+	EP0CHS
+	softmax
+	Adam
+	categorical_crossentopy
+	EarlyStopping
+	ReduceLROnPlateau
+MLP
+
+deep learning Multi Layer perceptron
+http://alexlenail.me/NN-SVG/index.html
