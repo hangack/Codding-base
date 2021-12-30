@@ -1,0 +1,32 @@
+https://www.kaggle.com/c/forest-cover-type-prediction/data
+
+콜로라도 북부 주르벨트 국유림
+
+단위 넓이: 30m*30m
+
+종속변수: Cover_Type(구성목)
+1. 가문비/전나무
+2. 로지폴 소나무
+3. 폰데로사 소나무
+4. 미루나무/버드나무
+5. 사시나무
+6. 미송
+7. Krummholz
+
+Data
+Elevation: 고도(m)
+Aspect: 경사 방위면(degree)
+Slope: 경사도(degree)
+Horizontal_Distance_To_Hydrology: 지표수까지의 수평 거리(m)
+Vertical_Distance_To_Hydrology: 지표수까지의 수직 거리(m)
+Horizontal_Distance_To_Roadways: 도로까지의 수평 거리(m)
+Hillshade_9am: 하지 오전 9시 음영도(0 to 255 index)
+Hillshade_Noon: 하지 정오 음영도(0 to 255 index)
+Hillshade_3pm: 하지 오후 3시 음영도(0 to 255 index)
+Horizontal_Distance_To_Fire_Points: 산불 점화 지점까지의 수평 거리(m)
+Wilderness_Area: 야생 지역(1~4, 0 또는 1 data)
+1. Rawah
+2. Neota
+3. Comanche Peak
+4. Cache la Poudr
+Soil_Type: 토양 유형(1~40, 0 또는 1 data)
