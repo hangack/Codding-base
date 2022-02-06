@@ -14,9 +14,9 @@ def connecting():
     # DB Connect
     conn = connect(
         host = "localhost",
-        dbname = "g2gtestdb",
+        dbname = "db_g2g",
         user = "postgres",
-        password = "1210",
+        password = "pwd",
         port = "5432"
     )
 
@@ -40,11 +40,12 @@ def createTable(conn):
     # 테이블 생성 작성
     QUERY = '''
         CREATE TABLE {NAME}(
-            seller CHAR(50),
+            date CHAR(16),
+            seller CHAR(32),
             server CHAR(50),
             currency CHAR(50),
-            price CHAR(50),
-            stock CHAR(50)
+            price CHAR(32),
+            stock CHAR(32)
         )
     '''.format(NAME = TABLE_NAME);
 

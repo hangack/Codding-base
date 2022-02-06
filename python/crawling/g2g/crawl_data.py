@@ -85,7 +85,7 @@ def connecting(dbname):
         host="localhost",  # SQL 서버 주소
         dbname = dbname,
         user="postgres",
-        password="1210",
+        password="pwd",
         port="5432"
     )
 
